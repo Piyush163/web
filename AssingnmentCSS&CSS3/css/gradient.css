@@ -1,0 +1,11 @@
+    body
+    { 
+        background-color: aqua;
+    }
+    main-section
+    {
+    background-color: green;
+    background: -webkit-linear-gradient(white 50%,black 50%);
+    background: linear-gradient(white 50%,black 50%);
+    }
+    
